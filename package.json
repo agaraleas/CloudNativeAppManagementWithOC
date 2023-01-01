@@ -1,0 +1,11 @@
+{
+  "name": "hello-nodejs",
+  "version": "1.0.0",
+  "description": "A playground app to deploy in kubernetes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelos Gkaraleas",
+  "license": "ISC"
+}
